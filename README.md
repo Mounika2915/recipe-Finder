@@ -23,6 +23,10 @@ Taylor, a busy professional, can quickly search for recipes when he gets home �
 
 ---
 
+### LIVE DEMO : https://recipe-finder-home.netlify.app/
+
+### VEDIO DEMO LINK : https://drive.google.com/file/d/174McmG60a6gtBKFncqkSdZSb-OiRxwok/view?usp=sharing
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
